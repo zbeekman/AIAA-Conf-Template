@@ -1,3 +1,3 @@
-[submodule "cmake/cmake/UseLATEX"]
-	path = cmake/cmake/UseLATEX
+[submodule "cmake/UseLATEX"]
+	path = cmake/UseLATEX
 	url = git@gitlab.kitware.com:kmorel/UseLATEX.git
